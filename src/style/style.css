@@ -27,12 +27,13 @@
 }
 /* 이미지 업로드 라벨 */
 #image-upload-input + label{
+    display: block;
     width: 185px;
     height: 54px;
     text-align: center;
     line-height: 54px;
-    border-radius: 5px;
-    background-color: rgb(210, 28, 143);
+    border-radius: 10px;
+    background-color: rgb(117, 50, 161);
     color: white;
     font-size: 18px;
     font-family: 'Noto Sans KR', sans-serif;
