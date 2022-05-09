@@ -33,12 +33,17 @@
     text-align: center;
     line-height: 54px;
     border-radius: 10px;
-    background-color: rgb(117, 50, 161);
+    background-color: rgb(203, 63, 131);
     color: white;
     font-size: 18px;
     font-family: 'Noto Sans KR', sans-serif;
     font-weight: 700;
     cursor: pointer;
+}
+
+#image-upload-input + label:hover{
+    background-color: white;
+    color:rgb(203, 63, 131);
 }
 
 #carousel{
